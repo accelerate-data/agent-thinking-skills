@@ -1,10 +1,18 @@
 {
   "name": "thinking-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "39 mental models and critical thinking frameworks packaged for Codex marketplace installation.",
   "author": {
     "name": "TJ Boudreaux",
     "url": "https://github.com/tjboudreaux"
   },
-  "repository": "https://github.com/accelerate-data/agent-thinking-skills"
+  "repository": "https://github.com/accelerate-data/agent-thinking-skills",
+  "interface": {
+    "displayName": "thinking-skills",
+    "shortDescription": "39 mental models and critical thinking frameworks packaged for Codex marketplace installation.",
+    "developerName": "TJ Boudreaux",
+    "capabilities": [],
+    "longDescription": "39 mental models and critical thinking frameworks packaged for Codex marketplace installation.",
+    "category": "Productivity"
+  }
 }
