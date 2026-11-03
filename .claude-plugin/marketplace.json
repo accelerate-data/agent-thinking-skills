@@ -13,7 +13,7 @@
       "name": "thinking-skills",
       "source": "./",
       "description": "39 Mental Models and Frameworks for Critical Thinking including first-principles, Bayesian reasoning, systems thinking, TRIZ, OODA, pre-mortem analysis, and more",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "tags": [
         "thinking",
